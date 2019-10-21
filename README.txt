@@ -1,0 +1,1 @@
+Recordar que el archivo de audio debe estar en la misma carpeta que el PY
